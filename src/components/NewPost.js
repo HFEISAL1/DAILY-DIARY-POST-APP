@@ -28,3 +28,4 @@ const NewPost = ({
 
 export default NewPost
 // passes data from the parent
+// created form input for posting data 
