@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-
+// import link 
 const Post = ({ post }) => {
     return (
         <article className="post">
