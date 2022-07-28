@@ -1,4 +1,5 @@
 const Footer = () => {
+    // creating date and year
     const today = new Date();
     return (
         <footer className='Footer'>
