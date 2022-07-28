@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 // import link 
 // passes data from parent 
+// redirected to post when a user click an id 
 const Post = ({ post }) => {
     return (
         <article className="post">
