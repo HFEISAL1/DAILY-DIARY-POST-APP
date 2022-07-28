@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 // import link 
+// passes data from parent 
 const Post = ({ post }) => {
     return (
         <article className="post">
