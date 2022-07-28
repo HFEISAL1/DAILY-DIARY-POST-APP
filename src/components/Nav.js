@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 // passes data from the parent component 
-// created form input 
+// created form input
+// added on change function  
 const Nav = ({ search, setSearch }) => {
     return (
         <nav className="Nav">
