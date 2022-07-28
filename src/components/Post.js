@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 // import link 
 // passes data from parent 
 // redirected to post when a user click an id 
+// passes a function to filter a unique id 
 const Post = ({ post }) => {
     return (
         <article className="post">
