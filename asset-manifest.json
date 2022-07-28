@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DAILY-DIARY-POST-APP/static/css/main.78eb3bf0.css",
+    "main.js": "/DAILY-DIARY-POST-APP/static/js/main.72370503.js",
+    "index.html": "/DAILY-DIARY-POST-APP/index.html",
+    "main.78eb3bf0.css.map": "/DAILY-DIARY-POST-APP/static/css/main.78eb3bf0.css.map",
+    "main.72370503.js.map": "/DAILY-DIARY-POST-APP/static/js/main.72370503.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78eb3bf0.css",
+    "static/js/main.72370503.js"
+  ]
+}
