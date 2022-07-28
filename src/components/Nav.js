@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-
+// passes data from the parent component 
 const Nav = ({ search, setSearch }) => {
     return (
         <nav className="Nav">
