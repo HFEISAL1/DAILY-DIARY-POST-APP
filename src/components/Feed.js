@@ -1,5 +1,5 @@
 import Post from './Post';
-
+// adding map method
 const Feed = ({ posts }) => {
     return (
         <>
