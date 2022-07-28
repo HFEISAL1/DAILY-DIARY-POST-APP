@@ -27,3 +27,4 @@ const NewPost = ({
 }
 
 export default NewPost
+// passes data from the parent
