@@ -31,3 +31,4 @@ export default NewPost
 // created form input for posting data 
 // added afunction on change 
 // created a submit button 
+// passes use state 
